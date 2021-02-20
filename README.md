@@ -6,7 +6,7 @@
 
 <br>
 
-### ⚡ Problem Statement - F- 07: Design and develop a model to differentiate between dry & wet & plastic waste automatically while throwing a dust in dustbin </i>
+### ⚡ Problem Statement: Design and develop a model to differentiate between dry & wet & plastic waste automatically while throwing a dust in dustbin </i>
 <br>
 <br>
 <br>
