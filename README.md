@@ -2,7 +2,7 @@
 <i>
 <h2> TEAM NAME : ADANISTAS </h2><br>
 
-### 🙋 Team Members: Sonali Preetha Nandagopalan ,Prakriti Sharma K P and Silpa S
+### 🙋 Team Members: Sonali Preetha Nandagopalan, Prakriti Sharma K P and Silpa S
 
 <br>
 
